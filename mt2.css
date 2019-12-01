@@ -1,3 +1,40 @@
 body *{
-    border: 1px solid black;
+    border: 1px solid red;
 }
+.vb1{
+    font-size: 15px;
+    padding: 15px;
+}
+.vb2{
+    font-size: 45px;
+    padding: 20px;
+}
+.vb3{
+    font-size: 15px;
+    padding: 8px;
+}
+#vb4{
+    font-size: 30px;
+    text-align: center;
+    padding: 8px;
+    color: white;
+}
+#img1{
+    width: 85%;
+    padding: -3px;
+    margin-left: 18px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 20%;
+}
+.col-sm-3{
+    background-color: black;
+}
+#row1{
+    background-color: grey;
+}
+.icon1{
+    font-size: 20px;
+}
+
+
