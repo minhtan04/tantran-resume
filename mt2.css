@@ -1,4 +1,4 @@
-body *{
+/*body *{*/
     border: 1px solid red;
 }
 .vb1{
@@ -19,6 +19,20 @@ body *{
     padding: 8px;
     color: white;
 }
+#vb5 {
+    font-size: 18px;
+    padding: 8px;
+    color: white;
+    margin-top: 4%;
+    margin-left: -6%;
+}
+#vb6 {
+    font-size: 18px;
+    padding: 8px;
+    color: white;
+    margin-top: 1%;
+    margin-left: -6%;
+}
 #img1{
     width: 85%;
     padding: -3px;
@@ -33,8 +47,18 @@ body *{
 #row1{
     background-color: grey;
 }
-.icon1{
-    font-size: 20px;
+.icon1 {
+    font-size: 30px;
+    color: white;
+    padding-top: 5px;
+    margin-left: -20%;
 }
-
+.fa-facebook{
+    color: white;
+}
+.fa:hover{
+    opacity: 0.8;
+    color: white;
+    text-decoration: none;
+}
 
