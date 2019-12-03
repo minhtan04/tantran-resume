@@ -40,6 +40,13 @@
     color: white;
     margin-top: -5%;
 }
+#vb8{
+    font-size: 20px;
+    text-align: left;
+    padding-top: 5%;
+    color: white;
+    margin-top: -5%;
+}
 #img1{
     width: 85%;
     padding: -3px;
@@ -81,5 +88,15 @@
 #icon22{
     padding: 2%;
     color: white;
+}
+#theme{
+    right: -12%;
+}
+#name{
+    font-size: 15px;
+    padding: 8px;
+    color: white;
+    margin-bottom: 1%;
+    margin-left: -32%;
 }
 
