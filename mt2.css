@@ -158,7 +158,8 @@
     width: 30px;
     height: 30px;
     border-radius: 50%;
-    background: orangered;
+    background: yellow;
+    border: 3px solid black;
 }
 .timeline ul li div {
     position: relative;
